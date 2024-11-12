@@ -1,9 +1,9 @@
 ![MasterHead](https://camo.githubusercontent.com/b0a4d30f8d5be5c42d7bc2c6a3bad82dc5ad1a537ab60d7463d3b9e05541d986/68747470733a2f2f7777772e7072616d756b686469676974616c2e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031382f30372f4e65772d504e432d416e696d617465642d42616e6e6572732e676966)
 <h1 align="center">Hi 👋, I'm Suraj Sharma</h1>
 <h3 align="center">A passionate FullStack developer & Java Programmer</h3>
-<!-- <img align="right" alt="coding" width="400" src="https://cdn.myportfolio.com/2fcfcb103788251450a8304378dffded/65198b6e-e407-4c8f-8500-6768cb35a76c_car_1x1.gif?h=cf2ee241356101c627e3efd748d598c0"> -->
+<img align="right" alt="coding" width="400" src="https://cdn.myportfolio.com/2fcfcb103788251450a8304378dffded/65198b6e-e407-4c8f-8500-6768cb35a76c_car_1x1.gif?h=cf2ee241356101c627e3efd748d598c0">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dheeraj26-02&label=Profile%20views&color=0e75b6&style=flat" alt="dheeraj26-02" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=SharmaSuraj01&label=Profile%20views&color=0e75b6&style=flat" alt="SharmaSuraj01" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
